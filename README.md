@@ -11,7 +11,7 @@ eStump is a hyperlocal three sided marketplace that connects homeowners with vet
 
 What looked like a simple booking tool on the surface turned out to be a deceptively complex marketplace with three distinct user types, a distance based contractor matching system, a traveling contractor fallback, and a full admin approval workflow.
 
-eStump is currently in final stages and launching mid May 2026.
+eStump launched in July of 2026.
 
 ---
 
